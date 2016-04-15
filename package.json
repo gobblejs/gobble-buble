@@ -1,0 +1,18 @@
+{
+  "name": "gobble-buble",
+  "version": "0.4.16",
+  "description": "Compile ES6 files with gobble and babel",
+  "author": "Rich Harris",
+  "license": "MIT",
+  "repository": "https://gitlab.com/Rich-Harris/gobble-buble",
+  "keywords": [
+    "gobble"
+  ],
+  "files": [
+    "index.js",
+    "README.md"
+  ],
+  "dependencies": {
+    "buble": "^0.4.16"
+  }
+}
