@@ -1,6 +1,6 @@
 {
   "name": "gobble-buble",
-  "version": "0.4.16",
+  "version": "0.5.4",
   "description": "Compile ES6 files with gobble and babel",
   "author": "Rich Harris",
   "license": "MIT",
@@ -13,6 +13,6 @@
     "README.md"
   ],
   "dependencies": {
-    "buble": "^0.4.16"
+    "buble": "^0.5.4"
   }
 }
