@@ -7,6 +7,5 @@ function buble ( code, options ) {
 }
 
 buble.defaults = {
-	accept: [ '.js', '.es6' ],
-	ext: '.js'
+	accept: [ '.js', '.mjs' ]
 };
