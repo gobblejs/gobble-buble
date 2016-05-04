@@ -1,5 +1,9 @@
 # gobble-buble changelog
 
+## 0.7.0
+
+* Update `buble`
+
 ## 0.6.0
 
 * Accept `.js` or `.mjs` files, don't change extensions
