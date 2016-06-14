@@ -1,5 +1,9 @@
 # gobble-buble changelog
 
+## 0.11.0
+
+* Update `buble`
+
 ## 0.10.0
 
 * Update `buble`
